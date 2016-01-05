@@ -1,2 +1,4 @@
 key.pem
 key.pem.pub
+*.pem
+*.pem.pub
